@@ -1,0 +1,4 @@
+Use the cmd to run the jar file : 
+1) Move to the directory of the jar files using cd
+2) Use the following command : java -jar filename.jar arg1 arg2 arg3 arg4
+Assumption : you should not enter any path that has spaces within.
